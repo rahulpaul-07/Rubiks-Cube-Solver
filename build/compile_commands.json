@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCube.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\Model\\RubiksCube.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/Model/RubiksCube.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\main.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\main.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/main.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCube3dArray.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\Model\\RubiksCube3dArray.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/Model/RubiksCube3dArray.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube3dArray.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCube1dArray.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\Model\\RubiksCube1dArray.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/Model/RubiksCube1dArray.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube1dArray.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\Model\\RubiksCubeBitboard.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\Model\\RubiksCubeBitboard.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/Model/RubiksCubeBitboard.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCubeBitboard.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\NibbleArray.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\PatternDatabases\\NibbleArray.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/PatternDatabases/NibbleArray.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/NibbleArray.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\PatternDatabase.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\PatternDatabases\\PatternDatabase.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/PatternDatabases/PatternDatabase.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/PatternDatabase.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\CornerPatternDatabase.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\PatternDatabases\\CornerPatternDatabase.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/PatternDatabases/CornerPatternDatabase.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerPatternDatabase.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\CornerDBMaker.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\PatternDatabases\\CornerDBMaker.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/PatternDatabases/CornerDBMaker.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerDBMaker.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/rubiks_cube_solver.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++14 -o CMakeFiles\\rubiks_cube_solver.dir\\PatternDatabases\\math.cpp.obj -c C:\\Users\\Rahul\\OneDrive\\Desktop\\Rubik-Cube-Solver\\PatternDatabases\\math.cpp",
+  "file": "C:/Users/Rahul/OneDrive/Desktop/Rubik-Cube-Solver/PatternDatabases/math.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/math.cpp.obj"
+}
+]
