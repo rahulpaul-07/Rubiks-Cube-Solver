@@ -7,6 +7,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <chrono>
 
 #include "Solver/IDAstarSolver.h"
 #include "PatternDatabases/CornerDBMaker.h"
@@ -33,16 +34,30 @@ int main() {
 
     cube.print();
 
-    // Solve using IDA*
-    IDAstarSolver<RubiksCubeBitboard, HashBitboard> solver(cube, fileName);
+    // =========================
+    // Solve using IDA* + Timer
+    // =========================
 
+    auto start = chrono::high_resolution_clock::now();
+
+    IDAstarSolver<RubiksCubeBitboard, HashBitboard> solver(cube, fileName);
     vector<RubiksCube::MOVE> moves = solver.solve();
+
+    auto end = chrono::high_resolution_clock::now();
+
+    double timeTaken =
+        chrono::duration<double>(end - start).count();
+
+    // =========================
+    // Print Results
+    // =========================
 
     cout << "\nSolution: ";
     for (auto move : moves)
         cout << cube.getMove(move) << " ";
 
-    cout << "\nMoves count: " << moves.size() << "\n\n";
+    cout << "\nMoves count: " << moves.size();
+    cout << "\nTime taken: " << timeTaken << " seconds\n\n";
 
     solver.rubiksCube.print();
 
