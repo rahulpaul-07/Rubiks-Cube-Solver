@@ -58,7 +58,7 @@ int main() {
 
     cout << "\nMoves count: " << moves.size();
     cout << "\nTime taken: " << timeTaken << " seconds\n\n";
-
+    cout << fixed << setprecision(4);
     solver.rubiksCube.print();
 
     return 0;
